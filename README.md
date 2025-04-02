@@ -28,4 +28,4 @@ The notebook is currently running on *cpu* because some operations aren't implem
 
 ## Results
 
-After the training, the model is evaluated on the test split of the Speech Commands dataset. The trained model has an accuracy of **68.67%** while the initial model had **30.72%**, both evaluated on 5-way, 5-shot, and 15-query setting.
+After the training, the model is evaluated on the test split of the Speech Commands dataset. The trained model has an accuracy of **68.67%** while the initial model had **30.72%**, both evaluated on 5-way, 5-shot, and 15-query setting. The trained model state dictionary can be found under this [link](https://drive.google.com/file/d/1jz1f5yXS8PiMTncLycbIbO4Za1sRfiHg/view?usp=share_link) and it should be placed under ```models/``` folder.
